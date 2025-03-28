@@ -22,7 +22,7 @@ Doing background reading allowed me to narrow the focus of the report to the use
 
 * The majority of the relevant literature focussed on deep learning models.
   
-* There is a shortage of literature containing measurements of the energy-efficiency of AI libraries and frameworks across different configurations or in different situations. Conducting more research in this field is crucial in order to guide the selection of the most energy-efficient libraries and frameworks in specific situations.
+* There is a shortage of literature reporting measurements of the energy-efficiency of AI libraries and frameworks across different configurations or in different situations. Conducting more research in this field is crucial in order to guide the selection of the most energy-efficient libraries and frameworks in specific situations.
   
 * As there are frequent developments in technology which result in new hardware and software for AI, such as new GPUs, such literature must also be updated frequently.
   
