@@ -2,6 +2,13 @@
 
 Within this repository is a literature review I conducted in order to identify the most eco-friendly, or 'Green', Artificial Intelligence (AI) Frameworks and Libraries. 
 
+<div align = "center">
+    <img src="https://images.unsplash.com/photo-1552772588-12592fc15a64?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width = "350" alt text ="Photo by Thomas Despeyroux on Unsplash">
+    <br>
+<sub>Image by Thomas Despeyroux on Unsplash</sub>
+</div>
+
+
 ### Topic selection
 I chose the topic of the literature review, although the assignment was set by a university: the task had been to write a literature review on any software engineering topic. 
 
